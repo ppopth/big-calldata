@@ -2,7 +2,7 @@
 pragma solidity ^0.8.17;
 
 contract BytesContract {
-    uint size;
+    uint public size;
     function update(bytes calldata b) external {
         size = b.length;
     }
