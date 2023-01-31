@@ -1,0 +1,3 @@
+[submodule "local-testnet"]
+	path = local-testnet
+	url = https://github.com/ppopth/local-testnet.git
