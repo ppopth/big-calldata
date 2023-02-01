@@ -1,8 +1,8 @@
 # Test Ethereum network with big calldata of 2MB
 
 ```bash
-git clone https://github.com/ppopth/big-calldata.git
-cd big-calldata
+git clone https://github.com/ppopth/big-calldata-testnet.git
+cd big-calldata-testnet
 git submodule update --init --depth 1
 
 # Build the customized geth

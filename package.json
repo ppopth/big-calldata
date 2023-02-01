@@ -1,5 +1,5 @@
 {
-  "name": "big-calldata",
+  "name": "big-calldata-testnet",
   "bin": {
     "deploy-contract": "./src/deploy-contract.js",
     "update": "./src/update.js"
