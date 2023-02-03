@@ -1,6 +1,6 @@
 # Test Ethereum network with big calldata of 2MB
 
-Please follow https://github.com/ppopth/local-testnet#install-dependencies to install the required dependencies.
+Please follow https://github.com/ppopth/local-testnet#install-dependencies to install the required dependencies. Then follow the following steps.
 
 ```bash
 git clone https://github.com/ppopth/big-calldata-testnet.git
